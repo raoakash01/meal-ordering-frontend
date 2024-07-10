@@ -1,0 +1,29 @@
+/* UserSelector.css */
+
+.user-selector {
+    margin: 20px 0;
+  }
+  
+  .user-selector .MuiFormControl-root {
+    width: 100%;
+  }
+  
+  .user-selector .MuiInputLabel-root {
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .user-selector .MuiSelect-root {
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 4px;
+  }
+  
+  .user-selector .MuiMenuItem-root {
+    padding: 10px 20px;
+  }
+  
+  .user-selector .MuiMenuItem-root:hover {
+    background-color: #e0e0e0;
+  }
+  

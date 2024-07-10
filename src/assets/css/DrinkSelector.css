@@ -1,0 +1,29 @@
+/* DrinkSelector.css */
+
+.drink-selector {
+    margin: 20px 0;
+  }
+  
+  .drink-selector .MuiFormControl-root {
+    width: 100%;
+  }
+  
+  .drink-selector .MuiInputLabel-root {
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .drink-selector .MuiSelect-root {
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 4px;
+  }
+  
+  .drink-selector .MuiMenuItem-root {
+    padding: 10px 20px;
+  }
+  
+  .drink-selector .MuiMenuItem-root:hover {
+    background-color: #e0e0e0;
+  }
+  

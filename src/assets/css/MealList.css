@@ -1,0 +1,24 @@
+/* MealList.css */
+
+.meal-list {
+    padding: 20px;
+  }
+  
+  .meal-list .MuiGrid-item {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .meal-list .meal-item {
+    width: 100%;
+    max-width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .meal-list .meal-item:hover {
+    transform: scale(1.05);
+  }
+  
